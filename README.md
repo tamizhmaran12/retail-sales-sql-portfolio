@@ -112,7 +112,7 @@ The script drops and recreates the `retail_sales_portfolio` database each time, 
 
 ## 👤 Author
 
-**Your Name**
+**Tamizhmaran S**
 [LinkedIn](https://www.linkedin.com/in/tamizh-maran-s/) · [GitHub](https://github.com/tamizhmaran12)
 
 ⭐ If you found this useful, feel free to star the repo!
